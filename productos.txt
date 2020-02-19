@@ -1,0 +1,4 @@
+Bon Nadal (Vermell, Blau):NAVIDAD:3:10:CARTRÓ (6mm):null:2:Bon:VERMELL:COPOS:BLAUS:true:FUSTA (3mm):10:Nadal:BLAU:ESTRELLES:GROGUES:true:FUSTA (3mm):10:0
+Bon Nadal (Vermell, Vermell):NAVIDAD:3:10:CARTRÓ (6mm):null:2:Bon:VERMELL:COPOS:BLAUS:true:FUSTA (3mm):10:Nadal:VERMELL:ESTRELLES:GROGUES:true:FUSTA (3mm):10:0
+Felices Fiestas (Vermell, Vermell):NAVIDAD:3:10:CARTRÓ (6mm):null:2:Felices:VERMELL:COPOS:BLAUS:true:FUSTA (3mm):10:Fiestas:VERMELL:ESTRELLES:GROGUES:true:FUSTA (3mm):10:0
+Arxiu Red (Blau, Plata):CONNEXION:3:10:CARTRÓ (6mm):null:2:Arxiu:BLAU:COPOS:NEGRES:true:FUSTA (3mm):10:Red:PLATA:ESTRELLES:GROGUES:true:FUSTA (3mm):10:0
