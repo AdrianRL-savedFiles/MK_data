@@ -1,0 +1,4 @@
+CARTRÓ (6mm):0.25
+CARTRÓ (7mm):0.3
+FUSTA (3mm):1.0
+FUSTA (5mm):1.2
